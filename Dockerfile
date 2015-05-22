@@ -1,4 +1,3 @@
-$ cat DockerFile
 #pull base image
 FROM centos:centos6
 
